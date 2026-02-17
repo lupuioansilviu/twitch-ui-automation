@@ -65,3 +65,17 @@ To improve that:
 
 ## Note 2
 Even tough I am not a fan to left locators in src/pages, I left them there to be visible and easy to find them
+
+
+## Twitch Demo
+
+Below is a recording of the test running locally:
+- Opens Twitch
+- Clicks search
+- Search for *StarCraft II*
+- Selects a streamer
+- Waits for page load
+- Takes screenshot
+- Test passes successfully
+
+![Twitch Mobile Test Demo](docs/twitchGif.gif)
